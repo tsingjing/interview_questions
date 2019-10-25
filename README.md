@@ -10,4 +10,4 @@
 
 2.2 setInterval有什么弊端？为什么要使用setTimeout 模拟 setInterval 而不是直接使用setInterval？
 
-[解析](https://github.com/tsingjing/interview_questions/issues/4 "第2题")
+[解析](https://github.com/tsingjing/interview_questions/issues/5 "第2题")
