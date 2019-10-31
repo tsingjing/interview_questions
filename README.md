@@ -17,3 +17,10 @@
 #### 第3题：你知道哪些安全问题，如何避免？【滴滴】
 
 [解析](https://github.com/tsingjing/interview_questions/issues/6 "第3题")
+
+#### 第4题：说一下Vue双向数据绑定原理？【一起作业】
+
+1.你能写一个Vue的双向数据绑定吗？
+
+[解析](https://github.com/tsingjing/interview_questions/issues/7 "第4题")
+
