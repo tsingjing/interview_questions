@@ -24,7 +24,7 @@
 
 [解析](https://github.com/tsingjing/interview_questions/issues/7 "第4题")
 
-#### 第5题：第5题：求下面两个数组的交集，并集，和差集【京东】
+#### 第5题：求下面两个数组的交集，并集，和差集【京东】
 
 ```javaScript
 var firstArr = [1,2,3,4,5,6,7,8];
